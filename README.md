@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce Website
 
-## Live Link: https://yash237w.github.io/e-commerce/
+## Live Link: https://yash273w.github.io/e-commerce/
 
 A modern and responsive e-commerce website built with HTML, CSS, and JavaScript.
 
@@ -35,7 +35,7 @@ e-commerce/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yash237w/e-commerce.git
+   git clone https://github.com/yash273w/e-commerce.git
    ```
 2. Open `index.html` in your browser to view the website
 
@@ -56,7 +56,7 @@ e-commerce/
 
 ## 👨‍💻 Author
 
-- [@yash237w](https://github.com/237w)
+- [@yash237w](https://github.com/273w)
 
 ## 🤝 Contributing
 
